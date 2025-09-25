@@ -4,6 +4,15 @@ PSP Bluetooth is a project to bring Bluetooth controllers to 2000 and 3000 model
 
 It is broken down into multiple components.
 
+## Acknowledgements
+
+The work ive done is just a thin layer ontop of work many other people have done, with lots of help from others.
+
+* TokyoDrift - Originally created work that uses the SIO port to allow external controllers back around 2010. Since uploaded to [Github](https://github.com/unraze/PSXControllerToPSP)
+* OPDitto project - A project that uses the SIO port to allow for a real second analog stick. Its SIO implementation has been extremly helpful to me. Repo [Here](https://github.com/Operation-DITTO)
+* X41 - Shared with me an initial working SIO hello world app back when i could barely compile PSP code. This was invaluable in helping me get the hardware working right at the start of the project.
+* PSP Homebrew Discord - Full of incredibly smart and helpful people too many to list individually. Without their help I'd never have managed to complete any of this.
+
 ## PSP Bluetooth Dongle
 [Here](https://github.com/ste2425/PSP-Bluetooth-Dongle)
 
