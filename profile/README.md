@@ -13,8 +13,8 @@ The work ive done is just a thin layer ontop of work many other people have done
 * X41 - Shared with me an initial working SIO hello world app back when i could barely compile PSP code. This was invaluable in helping me get the hardware working right at the start of the project.
 * PSP Homebrew Discord - Full of incredibly smart and helpful people too many to list individually. Without their help I'd never have managed to complete any of this.
 
-## PSP Bluetooth Dongle
-[Here](https://github.com/ste2425/PSP-Bluetooth-Dongle)
+## PSP Bluetooth Firmware
+[Here](https://github.com/ste2425/PSP-Bluetooth-Firmware)
 
 This is the firmware that runs on an ESP32 microcontroller. Its job is to be the bridge betwen the controllers and the PSP. The PSP communicates with it via custom homebrew over a serial port exposed in the AV connector.
 
